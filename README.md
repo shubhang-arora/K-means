@@ -10,7 +10,7 @@ K-Means Clusstering
 k-means clustering aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster. This results in a partitioning of the data space into Voronoi cells.
 
 **How To Run** <br>
-Download the [jar File](http://repo1.maven.org/maven2/ca/pjer/ekmeans/), and run the demo by double-clicking the jar file or by running it in a terminal with
+Download the [jar File](https://github.com/shubhang-arora/K-means/blob/master/demo.jar), and run the demo by double-clicking the jar file or by running it in a terminal with
 
 ```bash
 $ java -jar ekmeans.jar
