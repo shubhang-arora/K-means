@@ -21,16 +21,6 @@ Example:
 3.9522,50.45396,MCDONALD'S,7000 MONS
 4.00676,50.83615,MCDONALD'S (MCDRIVE),9400 NINOVE
 ```
-
-You can view and download this example file.
-
-The demo also supports exporting data to a CSV file. Lines in the exported CSV file will be in the same order as in the imported CSV file. Each line will be identical to the imported CSV file except for the first column, it will be the cluster index (so 0 means the first cluster).
-
-
-
-**BUGS:** <br>
- If      you     find     a     bug,     please     report     it     at
-       **https://github.com/shubhang-arora/K-means**
        
        **Authors** <br>
 1. SHUBHANG ARORA [1410110399] <br>
